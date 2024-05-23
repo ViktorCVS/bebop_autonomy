@@ -6,6 +6,7 @@
 * ROS wiki page: http://wiki.ros.org/bebop_autonomy
 * Support: [ROS Q&A (tag: bebop_autonomy)](http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:bebop_autonomy/page:1/)
 * Code API: http://docs.ros.org/indigo/api/bebop_autonomy/html
+* Modification at /bebop_driver/src/bebop_video_decoder.cpp due https://github.com/antonellabarisic/parrot_arsdk/tree/noetic_dev?search=1
 
 ## Development Team
 
